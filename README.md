@@ -21,13 +21,8 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/AP2Topper0127/AP2Topper0127/output/dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/AP2Topper0127/AP2Topper0127/output/light.svg#gh-light-mode-only)
-
-
   
 </div>
-
-
-
 
 
 
@@ -37,11 +32,12 @@
 
 <!--Trophy-->
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=richardchan1131&no-bg=true&no-frame=true&row=2&column=3"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=richardchan1131&theme=radical&column=5&margin-w=15&margin-h=15&no-frame=true"/>
 </div>
 
+
 ![](https://komarev.com/ghpvc/?username=richardchan1131)
-![Follow me on GitHub!](https://img.shields.io/github/followers/AP2Topper0127?)
+![Follow me on GitHub!](https://img.shields.io/github/followers/richardchan1131?)
 
 
 <div align="center">
