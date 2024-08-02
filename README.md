@@ -17,15 +17,22 @@
 
 
 
+<div align="center">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/AP2Topper0127/AP2Topper0127/output/dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/AP2Topper0127/AP2Topper0127/output/light.svg#gh-light-mode-only)
 
 
+  
+</div>
+
+
+
+
+
 
 <p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=richardchan1131&hide_border=true&theme=dark" /> 
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=richardchan1131&hide_border=true&theme=light" /> 
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=richardchan1131&hide_border=true&theme=transparent" /> 
 </p>
 
 <!--Trophy-->
@@ -33,40 +40,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=richardchan1131&no-bg=true&no-frame=true&row=2&column=3"/>
 </div>
 
-
 ![](https://komarev.com/ghpvc/?username=richardchan1131)
 ![Follow me on GitHub!](https://img.shields.io/github/followers/AP2Topper0127?)
 
 
-
-
 <div align="center">
-
-
   <a><img alt="Anotherhadi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=richardchan1131&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD" height="192px"/></a>
-  <a><img alt="Anotherhadi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=richardchan1131&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD" height="192px"/></a>
-  
+  <a><img alt="Anotherhadi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=richardchan1131&langs_count=8&layout=compact&theme=noctis-minimus&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD" height="192px"/></a>
 </div>
-
-
-<div align="center">
-
-
-
-  <a><img alt="Anotherhadi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=richardchan1131&show_icons=true&include_all_commits=true&count_private=true&theme=light&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD" height="192px"/></a>
-  <a><img alt="Anotherhadi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=richardchan1131&langs_count=8&layout=compact&theme=light&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD" height="192px"/></a>
-  
-</div>
-
-
-
-
-
 
 <div align="center">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=richardchan1131&radius=16&theme=material&area=true&order=5" height="300" alt="activity-graph graph"  />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=richardchan1131&radius=16&theme=LIGHT&area=true&order=5" height="300" alt="activity-graph graph"  />
+
 
 
 </div>
